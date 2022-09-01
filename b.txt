@@ -1,1 +1,3 @@
-git add b.txt
+b
+b
+12345678
